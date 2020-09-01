@@ -1,5 +1,5 @@
 ## 2020 FORCE Machine Learning Contest - Exploratory Data Analysis ##
-Exploratory Data Analysis for the Lithology prediction part of the 2020 FORCE Machine Learning Contest. 
+Exploratory Data Analysis for the Lithology prediction part of the 2020 FORCE Machine Learning Contest 
 
 ####  Machine Predicted Lithology ####
 Overview at [contest website](https://xeek.ai/challenges/force-well-logs/overview)
@@ -19,7 +19,7 @@ conda env create -f environment.yml
 #### Licensing #### 
 Copyright 2020 Matteo Niccoli
 
-This work is open source.
+This work is open source:
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Text is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"> CC BY 4.0 Creative Commons License</a>.
 
