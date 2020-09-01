@@ -4,6 +4,7 @@ channels:
   - defaults
 dependencies:
   - pandas
+  - numpy
   - python=3.7.7
   - matplotlib
   - s3fs
