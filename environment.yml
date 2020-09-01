@@ -6,6 +6,7 @@ dependencies:
   - pandas
   - python=3.7.7
   - matplotlib
+  - fsspec
   - pip
   - pip:
       - missingno
