@@ -1,0 +1,11 @@
+name: FORCE-EDA
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas
+  - python=3.7.7
+  - matplotlib
+  - pip:
+      - missingno
+  
