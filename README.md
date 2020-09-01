@@ -18,8 +18,14 @@ A notebook demonstrating how to quantitatively QC the reuslts of seismic inversi
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mycarta/Force-2020-Machine-Learning-competition_predict-lithology-EDA/master)
 
 #### Licensing #### 
+Copyright 2020 Matteo Niccoli
 
-Notebooks: these notebook are open source content.
+This work is open source.
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Text is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"> CC BY Creative Commons License</a>.
+
+Code is Licensed under the [Apache License, Version 2.0]( http://www.apache.org/licenses/LICENSE-2.0)
+
 The well log data is licensed as Norwegian License for Open Government Data (NLOD) 2.0. The well log labels that are included are provded by FORCE 2020 Machine Learning Contest under CC-BY-4.0.
 
 As per [contest rules](https://xeek.ai/challenges/force-well-logs/rules): 
