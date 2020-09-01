@@ -1,4 +1,4 @@
-##2020 FORCE Machine Learning Contest - Exploratory Data Analysis##
+## 2020 FORCE Machine Learning Contest - Exploratory Data Analysis ##
 
 ####  Machine Predicted Lithology ####
 Overview at [contest website](https://xeek.ai/challenges/force-well-logs/overview)
