@@ -10,6 +10,6 @@ dependencies:
   - s3fs
   - pip
   - pip:
-      - missingno
+	  - missingno
 	  - cegaltools
   
