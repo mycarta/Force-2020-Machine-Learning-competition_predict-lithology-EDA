@@ -11,4 +11,5 @@ dependencies:
   - pip
   - pip:
       - missingno
+	  - cegaltools
   
