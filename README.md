@@ -13,7 +13,7 @@ conda env create -f environment.yml
 ```
 
 #### Interactive notebooks ####
-##### To run the notebook interactively with Binder click on the button below: #####
+##### To run the notebooks interactively with Binder click on the button below: #####
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mycarta/Force-2020-Machine-Learning-competition_predict-lithology-EDA/master)
 
 #### Licensing #### 
